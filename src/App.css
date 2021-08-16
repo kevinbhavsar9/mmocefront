@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.pop {
+  justify-content: flex-end !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
